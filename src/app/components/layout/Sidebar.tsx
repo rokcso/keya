@@ -115,7 +115,7 @@ export function Sidebar() {
         </ScrollArea>
 
         {/* Footer */}
-        <div className="p-3 border-t border-line-subtle">
+        <div className="p-3">
           <p className="text-2xs text-ink-quaternary text-center">
             <a href="https://github.com/rokcso/keya" target="_blank" rel="noopener noreferrer"
                className="hover:text-ink-tertiary transition-colors">GitHub</a>
